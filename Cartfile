@@ -1,2 +1,2 @@
 github "Alamofire/Alamofire" "5.7.0"
-github "tristanhimmelman/ObjectMapper" ~> 3.5.1 
+github "ApptimizeNL/ObjectMapper" ~> 4.3
